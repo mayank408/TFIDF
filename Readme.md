@@ -1,3 +1,3 @@
-## TFIDF
+# TFIDF
 
-# Implementation of TF-IDF from scratch in Python
+## Implementation of TF-IDF from scratch in Python
